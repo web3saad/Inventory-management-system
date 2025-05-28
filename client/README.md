@@ -1,6 +1,4 @@
-# Live Site: https://mhs-inventory.netlify.app
 
-## Backend Server: https://inventory-420.vercel.app
 
 # Features
 
